@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Simple Picker Demo</string>
+    <string name="select_date_time">Select Date and Time</string>
+    <string name="date">Date</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="time">Time</string>
+</resources>
